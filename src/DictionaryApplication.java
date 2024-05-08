@@ -314,7 +314,7 @@ public class DictionaryApplication {
         tbLose.add(tbLoseD,BorderLayout.SOUTH);*/
         JPanel tbLose =new JPanel();
         tbLose.setLayout(new BorderLayout());
-        JLabel tbl=new JLabel("Quá ngu");
+        JLabel tbl=new JLabel("Bạn đã trả lời sai, cùng cố gắng hơn nhé!");
         tbl.setFont(fontDam);
         tbLose.add(tbl,BorderLayout.CENTER);
         JButton tryy=new JButton("Thử lại");
