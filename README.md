@@ -1,7 +1,7 @@
 # Ứng dụng hỗ trợ học tiếng Anh bằng Java
 
 ## Tác giả
-Nhóm 1 (Iloveoop)
+Nhóm 26 (Iloveoop)
 - Phạm Quân - 23020418
 - Hoàng Minh Vũ - 23020446
 - Phạm Hải Tiến - 23020425
