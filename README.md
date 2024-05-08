@@ -7,7 +7,12 @@ Nhóm 26 (Iloveoop)
 - Phạm Hải Tiến - 23020425
 
 ## Mô tả
-Ứng dụng này được thiết kế để hỗ trợ việc học tiếng Anh. Được viết bằng Java và sử dụng thư viện JavaSwing. Dựa trên mô hình MVC, có 1 loại từ điển: Anh-Việt . Sử dụng file dictionaries.txt để lưu trữ dữ liệu.
+Ứng dụng này được thiết kế để hỗ trợ việc học tiếng Anh. Được viết bằng Java và sử dụng thư viện JavaSwing. Dựa trên mô hình MVC, có từ điển: Anh-Việt. Sử dụng file dictionaries.txt để lưu trữ dữ liệu.
+1. Ứng dụng này được thiết kế để hỗ trợ việc học tiếng Anh.
+2. Ứng dụng này được viết bằng Java và sử dụng thư viện JavaSwing.
+3. Ứng dụng này dựa trên mô hình MVC.
+4. Ứng dụng từ điển: Anh-Việt.
+5. Ứng dụng sử dụng file dictionaries.txt để lưu trữ dữ liệu.
 
 ## Sơ đồ UML
 ![Sơ đồ UML](link_ảnh)
